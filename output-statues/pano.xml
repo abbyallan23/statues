@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.1.15" id="node1" apprev="18116">
+  <input height="2488" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2488" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+    <level height="2488" predecode="0" width="2488" preload="0"/>
+    <level height="1244" predecode="0" width="1244" preload="0"/>
+    <level height="622" predecode="0" width="622" preload="0"/>
+    <level height="311" predecode="1" width="311" preload="1"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start pan="0" projection="4" fov="70" tilt="0"/>
+    <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+    <min pan="0" tilt="-90" fovpixel="2"/>
+    <max pan="360" fovstereographic="270" fov="120" scaletofit="1" tilt="90" fovfisheye="360"/>
+  </view>
+  <userdata latitude="" nodeid="node1" copyright="" tags="statues" customnodeid="" description="" info="" longitude="" author="" datetime="11/20/22 4:25 PM" comment="" heading="0" title="" source=""/>
+  <hotspots height="20" wordwrap="1" width="180">
+    <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" border="1" background="1" borderradius="1" wordwrap="1" width="180" bordercolor="0x000000"/>
+    <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+    <hotspot pan="-325.04" url="images/IMG_0662.JPG" description="Muse of Music.  Dancing notes musical form" tilt="-3.7" skinid="ht_image" id="Euterpe" target="" title="Euterpe"/>
+    <hotspot pan="-306.47" url="images/IMG_0660.JPG" description="Muse of oratory and hymns contemplation repetition" tilt="-1.53" skinid="ht_image" id="Polyhymnia" target="" title="Polyhymnia"/>
+  </hotspots>
+  <media/>
+  <transition blendtime="1" zoomout="0" blendcolor="0x000000" zoomafterinfov="90" enabled="1" zoomafteroutfov="20" softedge="0" zoomin="0" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomspeed="2"/>
+  <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+  <control lockedmouse="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" contextvr="1" simulatemass="1" invertwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+</panorama>
